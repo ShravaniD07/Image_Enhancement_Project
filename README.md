@@ -1,4 +1,4 @@
-# Parallel Image Enhancement (Q5)
+# Parallel Image Enhancement 
 
 Applies two computationally heavy enhancement operations to a large
 collection of images, first sequentially and then in parallel with OpenMP,
