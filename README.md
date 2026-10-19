@@ -16,7 +16,7 @@ Use code with caution.
 Parallel_Image_Enhancement/
 ├── src/        image_enhancement.{h,cpp}  common.h  sequential.cpp  parallel_omp.cpp
 ├── scripts/    make_sizes.py  run_benchmarks.py  plot_results.py
-├── data/       small/ (512px)  medium/ (1024px)  large/ (2048px)
+├── data/       small/ (512px)  medium/ (1024px)  large/ (2048px) 
 ├── build/      executables (seq, omp)
 ├── results/    results.csv  profile.csv  summary.md  *.png graphs
 ├── output/     enhanced images (optional)
